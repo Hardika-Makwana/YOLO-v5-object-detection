@@ -1,0 +1,10 @@
+train: C:/Users/Hardika/Desktop/Intern_2ndyear_objDetection/TrafficSign_objDet_dataset_split/imagesT/train_Im
+val: C:/Users/Hardika/Desktop/Intern_2ndyear_objDetection/TrafficSign_objDet_dataset_split/imagesT/val_Im
+
+nc: 4
+names: ['prohibitory', 'danger', 'mandatory', 'other']
+
+# Specify label paths separately
+train_labels: C:/Users/Hardika/Desktop/Intern_2ndyear_objDetection/TrafficSign_objDet_dataset_split/labelT/train_L
+val_labels: C:/Users/Hardika/Desktop/Intern_2ndyear_objDetection/TrafficSign_objDet_dataset_split/labelT/val_L
+
